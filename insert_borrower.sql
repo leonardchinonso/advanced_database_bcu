@@ -1,0 +1,21 @@
+INSERT INTO borrower (address, photo_id, kyc_completed, bank_account_number, bank_sort_code) VALUES
+(('Main Street', '123', 'London', 'UK'), 'PHOTO-1234', '1', '12345678', '12-34-56'),
+(('High Road', '456', 'Manchester', 'UK'), 'PHOTO-5678', '0', '87654321', '65-43-21'),
+(('Park Avenue', '789', 'Liverpool', 'UK'), 'PHOTO-9012', '1', '23456789', '23-45-67'),
+(('Broadway', '1011', 'Birmingham', 'UK'), 'PHOTO-3456', '0', '98765432', '76-54-32'),
+(('Elm Street', '1213', 'Leeds', 'UK'), 'PHOTO-3016', '1', '34567890', '34-56-78'),
+(('King Road', '1415', 'Glasgow', 'UK'), 'PHOTO-1235', '0', '45678901', '45-67-89'),
+(('Queen Street', '1617', 'Edinburgh', 'UK'), 'PHOTO-5679', '1', '56789012', '56-78-90'),
+(('Prince Avenue', '1819', 'Cardiff', 'UK'), 'PHOTO-9013', '0', '67890123', '67-89-01'),
+(('Princess Lane', '2021', 'Bristol', 'UK'), 'PHOTO-3457', '1', '78901234', '78-90-12'),
+(('Duke Street', '2223', 'Belfast', 'UK'),'PHOTO-7891', '0' ,'89012345','89-01-23'),
+(('Park Avenue', '789', 'Birmingham', 'UK'), 'PHOTO-1236', '1', '90123456', '90-12-34'),
+(('Queen Street', '112', 'Edinburgh', 'UK'), 'PHOTO-5680', '0', '01234567', '01-23-45'),
+(('Church Road', '131', 'Bristol', 'UK'), 'PHOTO-9014', '1', '12340987', '12-34-09'),
+(('Bridge Street', '161', 'Glasgow', 'UK'), 'PHOTO-3458', '0', '23450123', '23-45-01');
+-- (('Green Road', '718', 'Leeds', 'UK'), 'PHOTO-7892', '1', '34561234', '34-56-12'),
+-- (('Forest Drive', '202', 'Newcastle upon Tyne', 'UK'), 'PHOTO-1237', '0', '45672345', '45-67-23'),
+-- (('Mountain View', '262', 'Belfast', 'UK'), 'PHOTO-5681', '1', '56783456', '56-78-34'),
+-- (('Sea Side Lane', '292', 'Brighton and Hove', 'UK'), 'PHOTO-1630', '0' ,'67894567','67-89-45'),
+-- (('River Avenue', '192', 'Sheffield', 'UK'),'PHOTO-3459', '1' ,'78905678','78-90-56'),
+-- (('Lake Road', '232', 'Norwich', 'UK'),'PHOT1O-7893', '0' ,'89016789','89-01-67');
